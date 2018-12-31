@@ -1,0 +1,12 @@
+.DS_STORE
+desktop.ini
+.gradle/
+build/
+bin/
+war/
+gen/
+gen-external-apklibs/
+armeabi/
+armeabi-v7a/
+Thumbs.db
+

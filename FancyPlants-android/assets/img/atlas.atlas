@@ -1,0 +1,61 @@
+
+atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grave
+  rotate: false
+  xy: 1, 169
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+player-OL
+  rotate: false
+  xy: 1, 101
+  size: 204, 66
+  orig: 204, 66
+  offset: 0, 0
+  index: -1
+tiles-OL
+  rotate: false
+  xy: 259, 297
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemy-OL
+  rotate: false
+  xy: 1, 35
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+plants
+  rotate: false
+  xy: 259, 263
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+jgravy
+  rotate: false
+  xy: 207, 109
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+sign
+  rotate: false
+  xy: 389, 393
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
